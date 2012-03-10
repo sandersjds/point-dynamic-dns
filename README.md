@@ -1,7 +1,7 @@
 Dynamic DNS for PointHQ
 =======================
 
-A script for using PointHQ [https://pointhq.com/] as a dynamic DNS service. The script takes measures to be polite to PointHQ, as all dynamic dns scripts should: PointHQ's update process is only involved if the IP needs to be changed.
+A script for using [PointHQ] (https://pointhq.com/) as a dynamic DNS service. The script takes measures to be polite to PointHQ, as all dynamic dns scripts should: PointHQ's update process is only involved if the IP needs to be changed.
 
 Basic usage
 -----------
